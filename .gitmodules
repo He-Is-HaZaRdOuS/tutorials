@@ -1,6 +1,6 @@
-[submodule "estate"]
-	path = estate
-	url = https://github.com/He-Is-HaZaRdOuS/estate
+[submodule "real_estate"]
+	path = real_estate
+	url = https://github.com/He-Is-HaZaRdOuS/real_estate
 [submodule "real_estate_account"]
 	path = real_estate_account
 	url = https://github.com/He-Is-HaZaRdOuS/real_estate_account
